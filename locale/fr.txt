@@ -15,7 +15,7 @@ label4056.text = T3xMUUTO Vue 1
 ## Media
 
 ### Title
-panorama_FD6376B8_ECED_2D50_41DF_B25AC44D52FB.label = 04_238xMUUTO_img4_b
+panorama_FEF8D498_ED26_ED5F_41E8_F263B1AE3754.label = 04_238xMUUTO_img4
 
 ## Action
 
